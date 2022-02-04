@@ -1,0 +1,38 @@
+body{
+    font: normal 18pt Arial;
+}
+input.txt{
+    border-radius: 15pt;
+    font: normal 18pt Arial;
+    width: 100px;
+    border-color: gray;
+}
+input#b{
+    width: 100px;
+    font: normal 18pt Arial;
+    background-color: aqua;
+    border-radius: 15pt;
+    border: 0ch;
+    margin: auto;
+    color: black;
+}
+div#res{
+    margin-top: 20px;
+}
+div.tema{
+    margin-top: 20px;
+}
+div#corpo{
+    border-width: 4px;
+    border-style: dashed;
+    border-color: gray;
+}
+form{
+    font-size: 20px;
+    font-family: 'Courier New', Courier, monospace;
+
+}
+h2{
+    font-size: 20px;
+    font-family: 'Courier New', Courier, monospace;
+}
